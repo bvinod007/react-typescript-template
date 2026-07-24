@@ -42,7 +42,7 @@
     "husky": "4",
     "lint-staged": "^13.2.2",
     "prettier": "^2.8.8",
-    "react-refresh": "^0.14.0",
+    "react-refresh": "^0.18.0",
     "style-loader": "^3.3.2",
     "styles-loader": "^4.0.1",
     "typescript": "^5.0.4",
